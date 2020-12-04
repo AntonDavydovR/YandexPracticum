@@ -30,5 +30,8 @@ Promo_friends — факт первоначальной записи в рамк
     3) определить другие особенности взаимодействия с клиентами.
 
 ## Используемые библиотеки
-Pandas, Scikit-learn, Matplotlib, Seaborn
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
